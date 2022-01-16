@@ -1,0 +1,30 @@
+body{
+    margin: 0x;
+    font-family: "roboto slab", serif;
+}
+
+.jumbotron{
+    background-image: url(bgporto.jpg);
+    background-size: cover;
+    height: 500px
+    img
+}
+
+.btn-warning{
+    border-radius: 10px;
+    box-shadow: 0px 2px 2px black !important;
+}
+
+.btn-warning:hover{
+    background-color: rgb(255, 166, 0);
+}
+
+.footer{
+    line-height: 50px;
+    margin-bottom: 0;
+}
+
+.jumbotron img{
+    border-radius: 50px;
+}
+
